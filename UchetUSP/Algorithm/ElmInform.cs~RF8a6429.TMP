@@ -1,0 +1,112 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace UchetUSP.Algorithm
+{
+    class ElmInform
+    {
+
+        //вывод данных в DataGridView 
+
+        public static void ViewInform(System.Windows.Forms.Panel WorkPanel)
+        {  
+            System.Windows.Forms.DataGridView dgv = ((System.Windows.Forms.DataGridView)WorkPanel.Controls.Find("dataGridView1", true)[0]);
+                
+            if (dgv.Name == "dataGridView1") 
+            {
+                
+                    dgv.DataSource = SQLOracle.getDS("SELECT NAME, OBOZN, GOST, L, B, B1, H, D, D1, D_SM_DB, D1_SM_DB, A, S, B_SM_DB, H" +
+                  "0, H_SM_DB, T, N, MASSA, NALICHI, TT, YT, PR, RZ, GROUP_USP, KATALOG_USP FROM KTC.DB_DATA").Tables[0];
+
+                  dgv.Refresh();
+                
+                
+                
+            }
+
+            CreateTreeView(WorkPanel);
+          
+        }
+
+        public static void CreateTreeView(System.Windows.Forms.Panel WorkPanel)
+        {
+
+            System.Windows.Forms.TreeView tv = ((System.Windows.Forms.TreeView)WorkPanel.Controls.Find("treeView1", true)[0]);
+
+            if (tv.Name == "treeView1")
+            {
+
+                tv.BeginUpdate(); 
+
+                tv.Nodes.Clear();
+
+                tv.Nodes.Add("УСП-8");
+
+                CreateSecondNode(0,tv);
+
+                tv.Nodes.Add("УСП-12");
+
+                CreateSecondNode(1,tv);
+
+                tv.Nodes.Add("Спец. детали");
+
+                CreateSecondNode(2,tv);
+
+                CreateThirdNode(tv);
+
+                tv.EndUpdate();                
+            }   
+        
+        }
+
+        public static void CreateSecondNode(int nodePosition,System.Windows.Forms.TreeView tv)
+        {
+
+            tv.Nodes[nodePosition].Nodes.Add("Базовые детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Корпусные детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Установочные детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Направляющие детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Прижимные детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Крепежные детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Разные детали");
+
+            tv.Nodes[nodePosition].Nodes.Add("Сборочные еденицы");
+
+        }
+
+
+        public static void CreateThirdNode(System.Windows.Forms.TreeView tv)
+        {
+            bool theSameNode = false;
+
+            System.Data.DataTable dtTree;
+           
+            dtTree = SQLOracle.getDS("SELECT DISTINCT NAME, GROUP_USP, KATALOG_USP FROM PROG.DB_DATA").Tables[0];
+
+            for (int position = 0; position < dtTree.Rows.Count; position++)
+            {
+             
+                tv.Nodes[Convert.ToInt32(dtTree.Rows[position][2].ToString())].Nodes[Convert.ToInt32(dtTree.Rows[position][1].ToString())].Nodes.Add(dtTree.Rows[position][0].ToString());
+                                            
+            }
+
+            dtTree.Dispose();
+
+
+           // foreach()
+
+         //   SQLOracle.getDS("SELECT DISTINCT NAME, GROUP_USP, KATALOG_USP FROM PROG.DB_DATA").Tables[0];
+        
+        }
+
+
+
+    }
+}

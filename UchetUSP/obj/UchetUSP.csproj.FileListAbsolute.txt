@@ -1,0 +1,330 @@
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\UchetUSP.exe
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\UchetUSP.pdb
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.csproj.ResolveComReference.cache
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.Form1.resources
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.Properties.Resources.resources
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.csproj.GenerateResource.Cache
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.exe
+C:\Users\White-Tiger\Documents\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.pdb
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.exe
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.pdb
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\ResolveAssemblyReference.cache
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\Interop.Microsoft.Office.Core.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\Interop.Office.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\Interop.VBIDE.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.csproj.ResolveComReference.cache
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.Form1.resources
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.Properties.Resources.resources
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\obj\Release\UchetUSP.csproj.GenerateResource.Cache
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\UchetUSP.exe
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\UchetUSP.pdb
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\Interop.Microsoft.Office.Core.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\Interop.Office.dll
+\\Server-ktpp\MyDoc31\Otd591\591777\Visual Studio 2005\Projects\UchetUSP\UchetUSP\bin\Release\Interop.VBIDE.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\Interop.Microsoft.Office.Core.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\Interop.Office.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\bin\Release\Interop.VBIDE.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\ResolveAssemblyReference.cache
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\Interop.Office.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\Interop.VBIDE.dll
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.csproj.ResolveComReference.cache
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.Form1.resources
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.Properties.Resources.resources
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.csproj.GenerateResource.Cache
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\UchetUSPcurrent\UchetUSP\obj\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\Interop.Microsoft.Office.Core.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\Interop.Office.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\Release\Interop.VBIDE.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\ResolveAssemblyReference.cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\Interop.Office.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\Interop.VBIDE.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.csproj.ResolveComReference.cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.Form1.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.Properties.Resources.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\Release\UchetUSP.csproj.GenerateResource.Cache
+G:\ULGU\УСП\UchetUSPcurrent\Maket\UchetUSP\obj\Release\UchetUSP.exe
+G:\ULGU\УСП\UchetUSPcurrent\Maket\UchetUSP\obj\Release\UchetUSP.pdb
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\Release\UchetUSP.exe
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\Release\UchetUSP.pdb
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.ResolveComReference.cache
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+H:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.ResolveComReference.cache
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+J:\ULGU\УСП\2 этап\Version\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\111\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+D:\111\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+D:\111\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+D:\111\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\111\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.ResolveComReference.cache
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+D:\111\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+D:\111\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Version\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.ResolveComReference.cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.ResolveComReference.cache
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+D:\ULGU\УСП\2 этап\UchetUSPcurrentv2\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.AddUspOrder.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGetAssembly.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGiveAssembly.resources
+D:\USP\UchetUSP\Version\Maket\UchetUSP\obj\x86\Release\UchetUSP.fOrderExecution.resources
+D:\USP\UchetUSP\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+D:\USP\UchetUSP\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+D:\USP\UchetUSP\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.About.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.ColdStatsForm.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.ElementCountForm.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.AddUspOrder.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fAssemblyInfo.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGetAssembly.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGiveAssembly.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fOrderExecution.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.FpreLoader.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.HotStatsForm.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.MoreStatsForm.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewNacladnaya.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewAct.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.OrderList.FindOL.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.TZORDER.FindTZ.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.VPP.FindVPP.resources
+D:\USP\UchetUSP\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\bin\x86\Release\UchetUSP.exe
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\bin\x86\Release\UchetUSP.pdb
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.About.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.ColdStatsForm.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.ElementCountForm.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.AddUspOrder.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.fAssemblyInfo.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGetAssembly.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGiveAssembly.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.fOrderExecution.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.FpreLoader.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.HotStatsForm.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.MoreStatsForm.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewNacladnaya.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewAct.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.OrderList.FindOL.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.TZORDER.FindTZ.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.VPP.FindVPP.resources
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.fEditAssembly.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.exe
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.pdb
+D:\USP\Maket\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.About.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fEditAssembly.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.ColdStatsForm.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.ElementCountForm.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.AddUspOrder.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fAssemblyInfo.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGetAssembly.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fGiveAssembly.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.fOrderExecution.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.FpreLoader.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.HotStatsForm.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.MoreStatsForm.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewNacladnaya.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewAct.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\Order.AddUspOrder.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.OrderList.FindOL.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.TZORDER.FindTZ.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.WinForms.VPP.FindVPP.resources
+D:\USP\Maket\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+C:\ServiceKTPP\UchetUSP.exe.config
+C:\ServiceKTPP\UchetUSP.exe
+C:\ServiceKTPP\UchetUSP.pdb
+C:\ServiceKTPP\BD_EOI\UchetUSP.exe.config
+C:\ServiceKTPP\BD_EOI\UchetUSP.exe
+C:\ServiceKTPP\BD_EOI\UchetUSP.pdb
+C:\Documents and Settings\591056\Desktop\Maket\UchetUSP\obj\x86\Release\UchetUSP.ElementsDestinationForm.resources
+G:\repos\UchetUSP\UchetUSP\bin\x86\Release\UchetUSP.exe.config
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.exe
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.pdb
+G:\repos\UchetUSP\UchetUSP\bin\x86\Release\UchetUSP.exe
+G:\repos\UchetUSP\UchetUSP\bin\x86\Release\UchetUSP.pdb
+G:\repos\UchetUSP\UchetUSP\bin\x86\Release\Interop.Microsoft.Office.Interop.Excel.dll
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\ResolveAssemblyReference.cache
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.About.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.ElementsDestinationForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.Form1.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.fEditAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.ColdStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.ElementCountForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.AddUspOrder.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.fAssemblyInfo.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.fGetAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.fGiveAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.fOrderExecution.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.FpreLoader.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.HotStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.MoreStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.Properties.Resources.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewNacladnaya.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.AddInformationAboutElements.ViewAct.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.Common.InputBox.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.OrderList.FindOL.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.CreateTZ.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.ElementInform.search.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.settings.setings.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.TZORDER.FindTZ.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.WinForms.VPP.FindVPP.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Release\UchetUSP.csproj.GenerateResource.Cache
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.exe
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.pdb
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.About.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.ElementsDestinationForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.Form1.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.fEditAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.ColdStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.ElementCountForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.AddUspOrder.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.fAssemblyInfo.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.fGetAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.fGiveAssembly.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.fOrderExecution.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.FpreLoader.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.HotStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.MoreStatsForm.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.Properties.Resources.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.ActSpisanie.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.AddInformation.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.AddNakladnaya.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.ViewNacladnaya.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.FindLoadedModels.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.AddInformationAboutElements.ViewAct.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.Common.InputBox.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.OrderList.FindOL.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.CreateTZ.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.ElementInform.InformAboutElement.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.ElementInform.search.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.settings.setings.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.TZORDER.FindTZ.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.WinForms.VPP.FindVPP.resources
+G:\repos\UchetUSP\UchetUSP\obj\x86\Debug\UchetUSP.csproj.GenerateResource.Cache
