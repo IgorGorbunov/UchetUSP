@@ -1,0 +1,450 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6A15BA4-03FE-435B-A3A3-1506695E1C22}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UchetUSP</RootNamespace>
+    <AssemblyName>UchetUSP</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleAssemblies>C:\Program Files (x86)\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools\FxCop\\rules</CodeAnalysisRuleAssemblies>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleAssemblies>C:\Program Files (x86)\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools\FxCop\\rules</CodeAnalysisRuleAssemblies>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.Microsoft.Office.Interop.Excel, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Interop.Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccessUser\AccessUser.cs" />
+    <Compile Include="Algorithm\MainFormAlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algorithm\VPP.cs" />
+    <Compile Include="Algorithm\PriemSpisanie.cs" />
+    <Compile Include="Algorithm\ElmInform.cs" />
+    <Compile Include="Algorithm\ShowVPP.cs" />
+    <Compile Include="Algorithm\StringStatus.cs" />
+    <Compile Include="Algorithm\TZAlg.cs" />
+    <Compile Include="DifferentCalsses\StringCalss.cs" />
+    <Compile Include="DifferentCalsses\TemporaryFile.cs" />
+    <Compile Include="ElementsDestinationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ElementsDestinationForm.Designer.cs">
+      <DependentUpon>ElementsDestinationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excel\ExcelClass.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fEditAssembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fEditAssembly.Designer.cs">
+      <DependentUpon>fEditAssembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HashCode\HashCode.cs" />
+    <Compile Include="Igor\ColdStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\ColdStatsForm.Designer.cs">
+      <DependentUpon>ColdStatsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\Data.cs" />
+    <Compile Include="Igor\ElementCountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\ElementCountForm.designer.cs">
+      <DependentUpon>ElementCountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fAddUspOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fAddUspOrder.designer.cs">
+      <DependentUpon>fAddUspOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fAssemblyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fAssemblyInfo.designer.cs">
+      <DependentUpon>fAssemblyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fGetAssembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fGetAssembly.designer.cs">
+      <DependentUpon>fGetAssembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fGiveAssembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fGiveAssembly.designer.cs">
+      <DependentUpon>fGiveAssembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\fOrderExecution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\fOrderExecution.designer.cs">
+      <DependentUpon>fOrderExecution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\FpreLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\FpreLoader.Designer.cs">
+      <DependentUpon>FpreLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\HotStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\HotStatsForm.designer.cs">
+      <DependentUpon>HotStatsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\Instrumentary.cs" />
+    <Compile Include="Igor\LaunchPreLoader.cs" />
+    <Compile Include="Igor\MoreStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Igor\MoreStatsForm.designer.cs">
+      <DependentUpon>MoreStatsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Igor\SQLAccess.cs" />
+    <Compile Include="Igor\VPP.cs" />
+    <Compile Include="Igor\xlsAccountingCard.cs" />
+    <Compile Include="Igor\xlsAssemblyOrder.cs" />
+    <Compile Include="Igor\xlsAssemblyOrder1.cs" />
+    <Compile Include="Igor\xlsAssemblyOrder2.cs" />
+    <Compile Include="Igor\xlsStats.cs" />
+    <Compile Include="Igor\xlsTZ.cs" />
+    <Compile Include="Igor\xlsVPP.cs" />
+    <Compile Include="Igor\_ASSEMBLIES.cs" />
+    <Compile Include="Igor\_ASSEMBLY_ELEMENTS.cs" />
+    <Compile Include="Igor\_ASSEMBLY_ORDERS.cs" />
+    <Compile Include="Igor\_ELEMENTS.cs" />
+    <Compile Include="Igor\_TZ--VPP.cs" />
+    <Compile Include="Igor\_USR.cs" />
+    <Compile Include="Igor\_VPP_TZ.cs" />
+    <Compile Include="LOG\Log.cs" />
+    <Compile Include="Maket\LayoutColdStats.cs" />
+    <Compile Include="Maket\Layout.cs" />
+    <Compile Include="Maket\LayoutAss.cs" />
+    <Compile Include="Maket\LayoutOrder.cs" />
+    <Compile Include="Maket\LayoutOrderTZ.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElementsDestinationForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ElementsDestinationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fEditAssembly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fEditAssembly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\ColdStatsForm.resx">
+      <DependentUpon>ColdStatsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\ElementCountForm.resx">
+      <DependentUpon>ElementCountForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fAddUspOrder.resx">
+      <DependentUpon>fAddUspOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fAssemblyInfo.resx">
+      <DependentUpon>fAssemblyInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fGetAssembly.resx">
+      <DependentUpon>fGetAssembly.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fGiveAssembly.resx">
+      <DependentUpon>fGiveAssembly.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\fOrderExecution.resx">
+      <DependentUpon>fOrderExecution.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\FpreLoader.resx">
+      <DependentUpon>FpreLoader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\HotStatsForm.resx">
+      <DependentUpon>HotStatsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Igor\MoreStatsForm.resx">
+      <DependentUpon>MoreStatsForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\ActSpisanie.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ActSpisanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\AddInformation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\AddNakladnaya.resx">
+      <DependentUpon>AddNakladnaya.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\ViewNakladnaya.resx">
+      <DependentUpon>ViewNakladnaya.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\FindLoadedModels.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FindLoadedModels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\AddInformationAboutElements\ViewAct.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ViewAct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\Common\InputBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\OrderList\FindOL.resx">
+      <DependentUpon>FindOL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\TZORDER\CreateTZ.resx">
+      <DependentUpon>CreateTZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\ElementInform\InformAboutElement.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InformAboutElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\ElementInform\search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\Settings\Setings.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Setings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\TZORDER\FindTZ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FindTZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinForms\VPP\FindVPP.resx">
+      <DependentUpon>FindVPP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SQL\SQLOracle.cs" />
+    <Compile Include="WinForms\AddInformationAboutElements\ActSpisanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\ActSpisanie.Designer.cs">
+      <DependentUpon>ActSpisanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\AddInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\AddInformation.Designer.cs">
+      <DependentUpon>AddInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\AddNakladnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\AddNakladnaya.Designer.cs">
+      <DependentUpon>AddNakladnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\ViewNakladnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\ViewNakladnaya.Designer.cs">
+      <DependentUpon>ViewNakladnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\FindLoadedModels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\FindLoadedModels.Designer.cs">
+      <DependentUpon>FindLoadedModels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\ViewAct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\AddInformationAboutElements\ViewAct.Designer.cs">
+      <DependentUpon>ViewAct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\Common\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\Common\InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\OrderList\FindOL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\OrderList\FindOL.Designer.cs">
+      <DependentUpon>FindOL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\TZORDER\CreateTZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\TZORDER\CreateTZ.Designer.cs">
+      <DependentUpon>CreateTZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\ElementInform\ArrayOfComboBox.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WinForms\ElementInform\ArrayOfTextBox.cs" />
+    <Compile Include="WinForms\ElementInform\InformAboutElement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\ElementInform\InformAboutElement.Designer.cs">
+      <DependentUpon>InformAboutElement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\ElementInform\search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\ElementInform\search.Designer.cs">
+      <DependentUpon>search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\Settings\Setings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\Settings\Setings.Designer.cs">
+      <DependentUpon>Setings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\TZORDER\FindTZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\TZORDER\FindTZ.Designer.cs">
+      <DependentUpon>FindTZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinForms\VPP\FindVPP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinForms\VPP\FindVPP.Designer.cs">
+      <DependentUpon>FindVPP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xlsTZ.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masterImage.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galochka-check_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PreLoader.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

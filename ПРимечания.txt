@@ -1,0 +1,6 @@
+1)
+"SELECT UG FROM DB_DATA WHERE OBOZN = '" + obonachenie + "'"
+596 строка файла SQLOracle требует изменения пути на file blob, т.к. используется локальная БД
+
+
+File_BLOB10, Model_attr10 на данный момент игнорируются
